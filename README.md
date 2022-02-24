@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fyawil
-- 👀 I’m interested in Food & Drink, Strength Training, BJJ and Business Consulting
+- 👀 I’m interested in Food & Drink, Fitness and Business Consulting
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web Page Development for SME's
 
